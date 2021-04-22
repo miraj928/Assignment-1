@@ -1,0 +1,16 @@
+h1 {
+  color: #443357;
+  background-color: green;
+  text-align: center;
+}
+
+.inputClass {
+  color: whitesmoke;
+  background-color: salmon;
+}
+#lastname {
+  color: blue;
+}
+#name {
+  color: black;
+}
